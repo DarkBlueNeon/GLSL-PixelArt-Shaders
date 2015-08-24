@@ -8,7 +8,7 @@
  
 uniform sampler2D texPalette;		//Current Palette
 uniform sampler2D texPaletteAlt;	//Alt Palette
-const int SAMPLES = 16;				//Max Num of Colors in Palette
+const int SAMPLES = 16;			//Max Num of Colors in Palette
 
 /*
  * Returns a vec4 with components h,s,l,a.
