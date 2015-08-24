@@ -14,7 +14,7 @@ uniform int bitrate;
 */
 vec4 channelBitrate(vec4 incol, int bit)
 {
-float bitdepth = pow(2.0, abs(float(bit)));
-vec4 outcol = floor(incol * bitdepth) /bitdepth;
-return outcol;
+	float bitdepth = pow(2.0, abs(float(bit)));
+	vec4 outcol = floor(incol * bitdepth) /bitdepth;
+	return outcol;
 }
