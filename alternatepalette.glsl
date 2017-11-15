@@ -1,6 +1,6 @@
  /*************************************************************************
 * Alternate Palette
-* A Shader for setting alternate palletes for sprites.
+* A Shader for setting alternate palettes for sprites.
 * Last Updated: Mon Aug 24 2015 @ 02:30AM EST
 * By Alain Galvan (Alain.xyz)
 * MIT Licence
